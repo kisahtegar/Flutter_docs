@@ -13,11 +13,13 @@ This link contains a Testing Application
 - [myprofile-test-app: app profile](https://github.com/kisahtegar/myprofile-test-app)
 - [learn-bloc-v2: Learn Bloc example](https://github.com/kisahtegar/learn-bloc-v2)
 - [video_player_chewie: video player with chewie](https://github.com/kisahtegar/video_player_chewie)
-- []()
+- [video_player_app: video player with getx and video_player](https://github.com/kisahtegar/video_player_app)
+- [json_serializable: Testing json_serializable](https://github.com/kisahtegar/json_serializable)
+<!-- - []() -->
 
 ## API
 - [Test-API: Mock API](https://github.com/kisahtegar/Test-API)
-- []()
+<!-- - []() -->
 
 ## Flutter Dev
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
