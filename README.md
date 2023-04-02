@@ -12,7 +12,7 @@ This documentation contains some link: widget, testing application, logic, and o
 
 ## Portfolio
 This link contains a portfolio.
-- ✓ [my_portfolio: porfolio website [Clean Architecture/CUBIT]](https://github.com/kisahtegar/my_portfolio)
+- ✓ [kisahcode: my landing page website](https://github.com/kisahtegar/kisahcode)
 - ✓ [hmsi_app: HMSI app for organization [Clean Architecture/CUBIT]](https://github.com/kisahtegar/hmsi_app)
 - ☐ [classy: This application is made for managing school classes [Clean Architecture/CUBIT/BLoC]](https://github.com/kisahtegar/classy)
 
@@ -52,10 +52,18 @@ This link contains a Testing Application for API
 This link contains a Testing Application for Database
 - ✓ [dart_mongodb: Testing mongodb with Dart](https://github.com/kisahtegar/dart_mongodb)
 
-## Flutter Dev
+## Flutter Note
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Web Renderers: Documentation for build web](https://docs.flutter.dev/development/platform-integration/web/renderers)
 
+## About Us
+<p align="left">
 
+- 💻 All of my projects are available at [github.com/kisahtegar](https://github.com/kisahtegar)
+- 📫 How to reach me **code.kisahtegar@gmail.com**
+- 📄 Know about my experiences [kisahcode.web.app](https://kisahcode.web.app)
+
+</p>
 <!-- - []() -->
 <!-- <img src="https://github.com/kisahtegar//blob/master/preview/1.jpg" width="200"> -->
