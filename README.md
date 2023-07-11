@@ -38,23 +38,28 @@ This link contains a Testing Application:
 - ✓ [instagram_clone: instagram clone [Clean Architecture/CUBIT]](https://github.com/kisahtegar/instagram_clone)
 - ☐ [chat_app: app chatrium [Clean Architecture/CUBIT]](https://github.com/kisahtegar/chat_app)
 - ✓ [frocrypto: app crypto price](https://github.com/kisahtegar/frocrypto)
+- ✓ [photo_library_app: App using Bloc state management](https://github.com/kisahtegar/Bloc_docs/tree/main/demos/vandad_course/photo_library_app)
 
 ## 🎮 Testing Game Application
 This link contains a Testing Game Application:
-- ✓ [bonfire_game_v2: This game using Bonfire package.](https://github.com/kisahtegar/bonfire_game_v2)
+- [bonfire_game_v2: This game using Bonfire package.](https://github.com/kisahtegar/bonfire_game_v2)
 
 ## 🌐 API
 This link contains a Testing Application for API:
-- ✓ [Test-API: Mock API](https://github.com/kisahtegar/Test-API)
-- ✓ [todo_api: This application made for testing API with [CUBIT]](https://github.com/kisahtegar/todo_api)
+- [Test-API: Mock API](https://github.com/kisahtegar/Test-API)
+- [todo_api: This application made for testing API with [CUBIT]](https://github.com/kisahtegar/todo_api)
 
-## 🗄️ Database & Backend
+## 🗄️ Database, Backend & State Management
 This link contains a Testing Application for Database and Backend:
-- ✓ [PostgreSQL: PostgreSQL collection](https://github.com/kisahtegar/PostgreSQL)
-- ✓ [MongoDB: MongoDB collection](https://github.com/kisahtegar/MongoDB)
-- ✓ [dart_frog: Dart Frog collection](https://github.com/kisahtegar/dart_frog)
+- [PostgreSQL_docs: PostgreSQL database collection.](https://github.com/kisahtegar/PostgreSQL_docs)
+- [MongoDB_docs: MongoDB database collection.](https://github.com/kisahtegar/MongoDB_docs)
+- [Docker_docs: Docker database collection.](https://github.com/kisahtegar/Docker_docs)
+- [dart_frog_docs: Dart Frog collection.](https://github.com/kisahtegar/dart_frog_docs)
+- [Serverpod_docs: Serverpod state management.](https://github.com/kisahtegar/Serverpod_docs)
+- [Bloc_docs: Bloc state management.](https://github.com/kisahtegar/Bloc_docs)
+- [Riverpod_docs: Riverpod state management.](https://github.com/kisahtegar/Riverpod_docs)
 
-## 📝 JavaScript Note
+## 📝 Flutter Note
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 - [Web Renderers: Documentation for build web](https://docs.flutter.dev/development/platform-integration/web/renderers)
