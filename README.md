@@ -14,6 +14,7 @@ This documentation contains some link: widget, testing application, logic, and o
 This link contains a portfolio:
 - ✓ [kisahcode: my landing page website](https://github.com/kisahtegar/kisahcode)
 - ✓ [hmsi_app: HMSI app for organization [Clean Architecture/CUBIT]](https://github.com/kisahtegar/hmsi_app)
+- ✓ [inputbarang: building CRUD dekstop app. [Serverpod/PostgreSQL]](https://github.com/kisahtegar/inputbarang)
 - ☐ [classy: This application is made for managing school classes [Clean Architecture/CUBIT/BLoC]](https://github.com/kisahtegar/classy)
 
 <!-- 
