@@ -8,26 +8,25 @@
 </a>
 
 ## 📋 Documentation
-This documentation contains some link: widget, testing application, logic, and other. 
+
+This documentation contains some link: widget, testing application, logic, and other.
 
 ## 📦 Portfolio
+
 This link contains a portfolio:
+
 - ✔️ [kisahcode: my landing page website](https://github.com/kisahtegar/kisahcode)
 - ✔️ [hmsi_app: HMSI app for organization [Clean Architecture/CUBIT]](https://github.com/kisahtegar/hmsi_app)
 - ✔️ [inputbarang: building CRUD dekstop app. [Serverpod/PostgreSQL]](https://github.com/kisahtegar/inputbarang)
+- ✔️ [ulearning_app: This apps can be used to manage learning using laravel admin, upload videos, and there are also payments using Stripe.](https://github.com/kisahtegar/ulearning_app)
+- ✔️ [education_app: This apps can be used to manage learning [Clean Architecture/TDD].](https://github.com/kisahtegar/education_app)
 - ⏳ [toknote: This application is made to manage your own store managing goods, activities and others. [Clean Architecture/CUBIT/BLoC]](https://github.com/kisahtegar/toknote)
 - ⏳ [classy: This application is made for managing school classes [Clean Architecture/CUBIT/BLoC]](https://github.com/kisahtegar/classy)
 
-<!-- 
-## Widget
-This link contains a widget.
-- .. 
--->
-
 ## 🧪 Testing Application
+
 This link contains a Testing Application:
-- ⏳ [education_app: This apps can be used to manage learning [Clean Architecture/TDD].](https://github.com/kisahtegar/education_app)
-- ✔️ [ulearning_app: This apps can be used to manage learning using laravel admin, upload videos, and there are also payments using Stripe.](https://github.com/kisahtegar/ulearning_app)
+
 - ✔️ [trelloappclone: A new Flutter project with Serverpod.](https://github.com/kisahtegar/trelloappclone)
 - ✔️ [worldtime-test: app with api world time](https://github.com/kisahtegar/worldtime-test)
 - ✔️ [responsive-test-v1: app with responsive size](https://github.com/kisahtegar/responsive-test-v1)
@@ -47,17 +46,23 @@ This link contains a Testing Application:
 - ✔️ [photo_library_app: App using Bloc state management](https://github.com/kisahtegar/Bloc_docs/tree/main/demos/vandad_course/photo_library_app)
 
 ## 🎮 Testing Game Application
+
 This link contains a Testing Game Application:
+
 - [bonfire_game_v2: This game using Bonfire package.](https://github.com/kisahtegar/bonfire_game_v2)
 
 ## 🌐 API
+
 This link contains a Testing Application for API:
+
 - [Test-API: Mock API](https://github.com/kisahtegar/Test-API)
 - [todo_api: This application made for testing API with [CUBIT]](https://github.com/kisahtegar/todo_api)
 - [mockapi.io: Simple tool that lets you easily mock up APIs, generate custom data, and perform operations on it using RESTful interface.](mockapi.io)
 
 ## 🗄️ Database, Backend & State Management
+
 This link contains a Testing Application for Database and Backend:
+
 - [PostgreSQL_docs: PostgreSQL database collection.](https://github.com/kisahtegar/PostgreSQL_docs)
 - [MongoDB_docs: MongoDB database collection.](https://github.com/kisahtegar/MongoDB_docs)
 - [Docker_docs: Docker database collection.](https://github.com/kisahtegar/Docker_docs)
@@ -67,11 +72,13 @@ This link contains a Testing Application for Database and Backend:
 - [Riverpod_docs: Riverpod state management.](https://github.com/kisahtegar/Riverpod_docs)
 
 ## 📝 Flutter Note
+
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 - [Web Renderers: Documentation for build web](https://docs.flutter.dev/development/platform-integration/web/renderers)
 
 ## ✨ About Us
+
 - 💻 All of my projects are available at [github.com/kisahtegar](https://github.com/kisahtegar)
-- 📫 How to reach me **code.kisahtegar@gmail.com**
+- 📫 How to reach me **<code.kisahtegar@gmail.com>**
 - 📄 Know about my experiences [kisahcode.web.app](https://kisahcode.web.app)
